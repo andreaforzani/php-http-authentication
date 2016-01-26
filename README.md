@@ -1,1 +1,1 @@
-# php_http_authentication
+# Simple Http Authentication in PHP
